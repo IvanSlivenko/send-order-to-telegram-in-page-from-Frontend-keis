@@ -80,6 +80,8 @@ body {
    padding: 10px;
    /* background: #291810; */
    background: rgba(0, 0, 0, 0.89);
+
+   
 }
 
 .form__group input, .form__group label, .form__group textarea {
@@ -94,6 +96,8 @@ body {
    background: grey;
    border-width: 0;
    margin-bottom: 10px;
+
+   cursor: pointer;
 }
 
 .form__group label {

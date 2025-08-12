@@ -1,6 +1,17 @@
 https://youtu.be/qc4OXJx0y9s
 
 
+У телеграм
+botFather
+
+bot:
+testUmanProgerBot
+
+user name:
+testUmanProgerBot
+
+token:
+8364283814:AAGqGWOrpALFYdvkAwRacoNzm1Ws-LDmni0
 
 
 
